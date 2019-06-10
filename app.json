@@ -1,0 +1,33 @@
+{
+    "expo": {
+        "name": "Fun Text Chat",
+        "description": "hnl project",
+        "slug": "funtextchat",
+        "privacy": "unlisted",
+        "sdkVersion": "26.0.0",
+        "ios": {
+            "bundleIdentifier": "com.hnl.funtextchat",
+            "supportsTablet": true
+        },
+        "android": {
+            "package": "com.hnl.funtextchat",
+            "permissions": []
+        },
+        "version": "1.0.0",
+        "orientation": "portrait",
+        "primaryColor": "#cccccc",
+        "splash": {
+            "image": "./src/assets/splash.png",
+            "resizeMode": "contain"
+        },
+        "icon": "./src/assets/icon.png",
+        "notification": {
+            "icon": "./src/assets/icon.png",
+            "color": "#000000"
+        },
+        "loading": {
+            "hideExponentText": true,
+            "icon": "./src/assets/icon.png"
+        }
+    }
+}
